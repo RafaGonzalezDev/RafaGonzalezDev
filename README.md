@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-<p><em>I am a full-stack developer with experience in HTML, CSS, Javascript, Typescript, Java, and Python. My front-end expertise includes React, and CSS frameworks such as Bootstrap and Tailwind. On the back-end, I have experience with Node and Express, and I am familiar with MongoDB and mySQL databases. Check out my GitHub profile to see some of my projects, and feel free to reach out if you have any questions or opportunities.</em></p>
+<p><em>I am a full-stack developer with experience in <b>HTML, CSS, Javascript, Typescript, Java, and Python</b>. My <b>front-end</b> expertise includes <b>React, and CSS</b> frameworks such as <b>Bootstrap</b> and <b>Tailwind</b>. On the <b>back-end</b>, I have experience with <b>Node and Express</b>, and I am familiar with <b>MongoDB and mySQL</b> databases. Check out my GitHub profile to see some of my projects, and feel free to reach out if you have any questions or opportunities.</em></p>
 
 ```javascript
 const aboutMe = {
