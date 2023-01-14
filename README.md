@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-<p><em>All coding projects are built from the ground up, from <b>planning</b> and <b>designing</b> all the way to <b>solving real-life problems</b> with code!</em></p>
+<p><em>I am a full-stack developer with experience in HTML, CSS, Javascript, Typescript, Java, and Python. My front-end expertise includes React, and CSS frameworks such as Bootstrap and Tailwind. On the back-end, I have experience with Node and Express, and I am familiar with MongoDB and mySQL databases. I am a student, currently open to job opportunities. Check out my GitHub profile to see some of my projects, and feel free to reach out if you have any questions or opportunities.</em></p>
 
 ```javascript
 const aboutMe = {
