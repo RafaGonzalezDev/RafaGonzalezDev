@@ -10,13 +10,12 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: ["Bootstrap", "Tailwind"]
+         css: ["Bootstrap", "TailwindCSS"]
       },
       backEnd: {
          js: ["Node", "Express"],
       },
       databases: ["MongoDB", "mySQL"],
-      mobile: ["React Native"]
    },
    currentOccupation: ["Last year student, open for job opportunities"]
 };
