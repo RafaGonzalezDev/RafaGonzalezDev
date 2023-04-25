@@ -9,15 +9,15 @@ const aboutMe = {
    code: [HTML, CSS, Javascript, Typescript, Java, Python],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React", "Next JS"],
          css: ["Bootstrap", "TailwindCSS"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", "Amplify", "AWS"],
       },
-      databases: ["MongoDB", "mySQL"],
+      databases: ["MongoDB", "mySQL", "DynamoDB"],
    },
-   currentOccupation: ["Last year student, open for job opportunities"]
+   currentOccupation: ["Open for job opportunities!"]
 };
 ```
 
