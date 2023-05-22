@@ -13,7 +13,8 @@ const aboutMe = {
          css: ["Bootstrap", "Tailwind CSS"]
       },
       backEnd: {
-         js: ["AWS", "Amplify", "Node", "Express"],
+         js: ["Node", "Express", "AWS Amplify"],
+         php: ["Laravel"]
       },
       databases: ["MongoDB", "mySQL", "DynamoDB"],
    },
