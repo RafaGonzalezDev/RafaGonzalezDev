@@ -6,14 +6,14 @@
 
 ```javascript
 const aboutMe = {
-   code: [HTML, CSS, Javascript, Typescript, Java, Python],
+   code: [HTML, CSS, Javascript, Typescript, Java, Python, PHP],
    technologies: {
       frontEnd: {
          js: ["React", "Next JS"],
-         css: ["Bootstrap", "TailwindCSS"]
+         css: ["Bootstrap", "Tailwind CSS"]
       },
       backEnd: {
-         js: ["Node", "Express", "Amplify", "AWS"],
+         js: ["AWS", "Amplify", "Node", "Express"],
       },
       databases: ["MongoDB", "mySQL", "DynamoDB"],
    },
