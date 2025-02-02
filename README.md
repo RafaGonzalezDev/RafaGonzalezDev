@@ -11,13 +11,13 @@ const aboutMe = {
   code: ['TypeScript', 'JavaScript'],
   technologies: {
     frontEnd: {
-      framework: ['Angular', 'React'],
+      framework: ['Angular'],
       stateManagement: ['NgRx', 'Redux'],
     },
     backEnd: {
       js: ['Node.js', 'Express'],
     },
-    databases: ['mySQL', 'MongoDB'],
+    databases: ['MySQL', 'MongoDB'],
     cloud: ['AWS'],
   },
   currentOccupation: ['Software Developer at UST Global & Banco Santander'],
