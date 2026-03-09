@@ -1,10 +1,8 @@
 ## Rafa González Rubio
 
-**Frontend Architect — Angular / TypeScript**
+**Frontend Architecture — Angular / TypeScript**
 
-I design scalable frontend systems for enterprise environments: microfrontend architectures 
-with Module Federation, state management with NgRx, and component systems built for 
-long-term maintainability.
+I design scalable frontend systems for enterprise environments.
 
 Beyond architecture, I work with AI at a systems level — designing agentic workflows, 
 orchestrating frontier models, and building tooling that integrates LLMs into real 
