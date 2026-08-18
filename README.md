@@ -8,4 +8,4 @@ Beyond architecture, I work with AI at a systems level — designing agentic wor
 orchestrating frontier models, and building tooling that integrates LLMs into real 
 development pipelines.
 
-[LinkedIn]([www.linkedin.com/in/rafa-gonzalez-rubio](https://www.linkedin.com/in/rafa-gonzalez-rubio/))
+[LinkedIn](https://www.linkedin.com/in/rafa-gonzalez-rubio/)
